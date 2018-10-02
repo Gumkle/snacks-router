@@ -1,6 +1,20 @@
 {
-	"name": "Gumkle/phpbook",
-	"require": {
-		"phpunit/phpunit": "^7.3"
-	}
+    "name": "gumkle/phpbook",
+    "description": "My first package, please dont hate it",
+    "type": "project",
+    "require": {
+        "phpunit/phpunit": "^7.3",
+        "php": ">=7.0.0"
+    },
+    "authors": [
+        {
+            "name": "Gumkle",
+            "email": "dziedzicdev@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Phpbook": "src/"
+        }
+    }
 }
