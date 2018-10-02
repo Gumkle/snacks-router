@@ -15,7 +15,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Phpbook": "src/"
+            "Phpbook\\": "src/"
         }
     }
 }
