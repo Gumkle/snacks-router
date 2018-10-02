@@ -1,0 +1,6 @@
+{
+	"name": "Gumkle/phpbook",
+	"require": {
+		"phpunit/phpunit": "^7.3"
+	}
+}
