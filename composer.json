@@ -3,7 +3,7 @@
     "description": "My first package, please don't hate it",
     "type": "project",
     "require": {
-        "phpunit/phpunit": "^7.3",
+        "phpunit/phpunit": "~6.0",
         "php": ">=7.0.0"
     },
     "authors": [
