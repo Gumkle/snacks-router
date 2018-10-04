@@ -1,8 +1,9 @@
 {
     "name": "gumkle/phpbook",
-    "description": "My first package, please dont hate it",
+    "description": "My first package, please don't hate it",
     "type": "project",
     "version": "1.0",
+    "stability": "stable",
     "require": {
         "phpunit/phpunit": "^7.3",
         "php": ">=7.0.0"
