@@ -5,5 +5,5 @@ namespace Phpbook\Controllers;
 
 class Controller
 {
-
+    
 }

@@ -7,6 +7,11 @@ class BookController extends Controller
 {
     public function chap1()
     {
-        echo "Udao się!";
+        echo "chap1";
+    }
+
+    public function chap2()
+    {
+        echo "elo";
     }
 }

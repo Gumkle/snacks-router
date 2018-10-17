@@ -7,6 +7,7 @@ use Exception;
 class Router
 {
     private $addresses = [
+        '/'      => 'MainController@index',
         '/chap1' => 'BookController@chap1',
         '/chap2' => 'BookController@chap2',
     ];
@@ -61,6 +62,8 @@ class Router
      */
     private function matchUri(string $URI, string $matching)
     {
+        var_dump($URI[0]);
+        die();
         if($URI[0] == '/')
             $URI = substr($URI, 1);
         if($matching[0] == '/')
