@@ -1,1 +1,2 @@
-I have no idea what this project might be, it's just place for me to experiment with my new book <3
+# PHP Snacks Router
+It's my first router written from the very scratch, that's not really any better than anything else, but it's mine and I had great time developing it and I'm proud and happy to have it. <3
